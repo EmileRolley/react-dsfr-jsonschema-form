@@ -2,7 +2,7 @@
     <img src="https://user-images.githubusercontent.com/6702424/80216211-00ef5280-863e-11ea-81de-59f3a3d4b8e4.png">  
 </p>
 <p align="center">
-    <i>A dsfr form generator from json schema</i>
+    <i>A React component to generate a DSFR form from a JSON Schema</i>
     <br>
     <br>
     <a href="https://github.com/EmileRolley/react-dsfr-jsonschema-form/actions">

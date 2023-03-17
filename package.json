@@ -1,7 +1,7 @@
 {
     "name": "react-dsfr-jsonschema-form",
-    "version": "0.0.0",
-    "description": "A dsfr form generator from json schema",
+    "version": "0.0.1",
+    "description": "A React component to generate a DSFR form from a JSON Schema",
     "repository": {
         "type": "git",
         "url": "git://github.com/EmileRolley/react-dsfr-jsonschema-form.git"
